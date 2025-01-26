@@ -9,7 +9,7 @@ pipeline {
                 script {
 					def version = "v${env.BUILD_NUMBER}"
                     sh """
-                        docker build prereg:${version} .
+                        docker build -t prereg:${version} .
                         docker tag prereg:${version} jayantbharti/prereg:${version}
                         docker push jayantbharti/prereg:${version}
                     """
