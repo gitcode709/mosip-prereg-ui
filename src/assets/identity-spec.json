@@ -85,7 +85,7 @@
             "id": "dateOfBirth",
             "description": "Enter DOB",
             "labelName": {
-              "eng": "Date Of Birth",
+              "eng": "DOB",
               "ara": "تاريخ الولادة",
               "fra": "Date de naissance"
             },
