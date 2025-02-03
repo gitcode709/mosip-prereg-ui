@@ -1,0 +1,101 @@
+# Use the official Nginx image as the base image
+FROM nginx
+
+# Define build-time arguments
+ARG SOURCE
+ARG COMMIT_HASH
+ARG COMMIT_ID
+ARG BUILD_TIME
+ARG container_user=mosip
+ARG container_user_group=mosip
+ARG container_user_uid=1001
+ARG container_user_gid=1001
+ARG preregistration_i18n_bundle_url_arg=http://artifactory-service/artifactory/libs-release-local/i18n/pre-registration-i18n-bundle.zip
+
+# Set labels for the image
+LABEL source=${SOURCE} \
+      commit_hash=${COMMIT_HASH} \
+      commit_id=${COMMIT_ID} \
+      build_time=${BUILD_TIME}
+
+# Set environment variables for the application
+ENV base_path=/usr/share/nginx/html
+ENV i18n_path=${base_path}/assets/i18n
+ENV preregistration_i18n_bundle_url_env=${preregistration_i18n_bundle_url_arg}
+
+# Ensure /usr/local/bin is in PATH
+ENV PATH="/usr/local/bin:${PATH}"
+
+# Install required packages: unzip, wget, curl, git, openssh-client, xz-utils, and python3
+RUN apt-get update && apt-get install -y \
+    unzip \
+    wget \
+    curl \
+    git \
+    openssh-client \
+    xz-utils \
+    python3 \
+ && ln -s /usr/bin/python3 /usr/bin/python \
+ && rm -rf /var/lib/apt/lists/*
+
+# (Optional) Configure npm to use python3 for node-gyp:
+RUN npm config set python python3
+
+##########################################
+# Install Node.js v14.17.3 and npm 6.14.13 #
+##########################################
+RUN curl -sL https://nodejs.org/dist/v14.17.3/node-v14.17.3-linux-x64.tar.xz \
+    | tar -xJ -C /usr/local --strip-components=1
+
+# Upgrade npm to version 6.14.13
+RUN npm install -g npm@6.14.13
+
+##########################################
+# Install Angular CLI v7.2.1 globally      #
+##########################################
+RUN npm install -g @angular/cli@7.2.1
+
+##########################################
+# Create a non-root container user         #
+##########################################
+RUN groupadd -g ${container_user_gid} ${container_user_group} && \
+    useradd -u ${container_user_uid} -g ${container_user_group} -s /bin/sh -m ${container_user} && \
+    mkdir -p /var/run/nginx /var/tmp/nginx && \
+    chown -R ${container_user}:${container_user} /usr/share/nginx /var/run/nginx /var/tmp/nginx
+
+# Set working directory for the container user
+WORKDIR /home/${container_user}
+
+##########################################
+# Copy source code and build the Angular app
+##########################################
+# Copy the application source code into the container
+COPY . /home/${container_user}/app
+WORKDIR /home/${container_user}/app
+
+# Install dependencies and build the Angular app using the local Angular CLI binary
+RUN npm install && \
+    ./node_modules/.bin/ng build --prod --base-href . --output-path=dist && \
+    cp -r dist/* ${base_path}/ && \
+    chown -R ${container_user}:${container_user} ${base_path}
+
+##########################################
+# Add Nginx configuration files
+##########################################
+COPY nginx.conf /etc/nginx/nginx.conf
+COPY default.conf /etc/nginx/conf.d/
+
+# Switch to the non-root container user
+USER ${container_user_uid}:${container_user_gid}
+
+# Expose the application port
+EXPOSE 8080
+
+##########################################
+# Run command: Download i18n bundle, start Nginx, and keep container running
+##########################################
+CMD wget -q --show-progress "${preregistration_i18n_bundle_url_env}" -O "${i18n_path}/pre-registration-i18n-bundle.zip" && \
+    cd ${i18n_path} && \
+    nginx && \
+    sleep infinity
+
