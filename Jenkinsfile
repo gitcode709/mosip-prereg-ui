@@ -21,7 +21,7 @@ pipeline {
             steps {
                 script {
                     def version = "v${env.BUILD_NUMBER}"
-                    sh "kubectl set image deploy/prereg-ui  prereg-ui=jayantbharti/prereg:${version}"
+                    sh "kubectl set image deploy/prereg-ui  prereg-ui=jayantbharti/prereg:${version} -n prereg"
                 }
             }
         }
