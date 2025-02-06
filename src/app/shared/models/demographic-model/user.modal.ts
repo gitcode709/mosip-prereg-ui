@@ -7,6 +7,11 @@ export class UserModel {
     public preRegId?: string,
     public request?: ResponseModel,
     public files?: FilesModel,
-    public location?: CodeValueModal[]
+    public location?: CodeValueModal[],
+    public guardianDetails?: {
+      name: string;
+      relationship: string;
+      contact: string;
+    }
   ) {}
 }

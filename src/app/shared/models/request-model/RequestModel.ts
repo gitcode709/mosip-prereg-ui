@@ -1,8 +1,12 @@
 import Utils from 'src/app/app.util';
-import * as appConstanst from '../../../app.constants';
+import * as appConstants from '../../../app.constants';
 
 export class RequestModel {
-  version = appConstanst.VERSION;
+  version = appConstants.VERSION;
   requesttime = Utils.getCurrentDate();
-  constructor(private id: string, private request: any, private metadata?: any) {}
+  constructor(
+    private id: string,
+    private request: any,
+    private metadata?: any
+  ) {}
 }
