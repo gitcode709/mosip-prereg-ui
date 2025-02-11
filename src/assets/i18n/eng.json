@@ -348,7 +348,7 @@
       "alertMessageThird": "You will be redirected to ‘Preview Page’ due to not accepting Terms & Conditions"
     },
     "validation": {
-      "DOB_validation": "Enter Valid date of birth or age",
+      "DOB_validation": "Enter Valid date of birth or age ++++++++++++++++=========",
       "requiredMessage": "Is required",
       "InvalidMessage": "is invalid"
     }
