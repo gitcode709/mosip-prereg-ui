@@ -9,7 +9,7 @@ pipeline {
                 script {
 					def version = "v${env.BUILD_NUMBER}"
                     sh """
-                        docker build -t prereg:${version} .
+                        docker build -t prereg:${version} -f Dockerfile2 .
                         docker tag prereg:${version} jayantbharti/prereg:${version}
                         docker push jayantbharti/prereg:${version}
                     """
@@ -21,7 +21,7 @@ pipeline {
             steps {
                 script {
                     def version = "v${env.BUILD_NUMBER}"
-                    sh "kubectl set image deploy/prereg-ui  prereg-ui=jayantbharti/prereg:${version}"
+                    sh "kubectl set image deploy/prereg-ui  prereg-ui=jayantbharti/prereg:${version} -n prereg"
                 }
             }
         }
