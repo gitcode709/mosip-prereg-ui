@@ -1,12 +1,15 @@
 {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
   "quick_guide": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "breadcrumb": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -14,6 +17,7 @@
       "getting_started": "Getting Started"
     },
     "headerText": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -21,11 +25,13 @@
       "line2": "Click the following sections for more information about completing the Pre-registration form."
     },
     "select_language": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Select preference language",
       "list": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -35,11 +41,13 @@
       "note": "Note: Field and button labels, error and information messages throughout the application will be displayed in the preferred language."
     },
     "login": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Login",
       "list": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -52,11 +60,13 @@
       "line": "When your OTP is verified, you can create, view, or modify your pre-registration application."
     },
     "select_data_capture_language": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Select data capture language",
       "list": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -67,11 +77,13 @@
       "note": "Note: This choice will be available only if the ID issuer has configured usage of optional languages."
     },
     "t&c": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Accept Terms & Conditions",
       "list": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -81,11 +93,13 @@
       "note": "Note: User consent is mandatory for creating/updating applications. The contents will be displayed in all data capture languages"
     },
     "demographic": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Fill Demographic Details",
       "list": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -97,11 +111,13 @@
       "line": "Note: Field and button labels, error and information messages will be displayed in the user preferred language selected in login screen."
     },
     "documents": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Upload Documents",
       "list": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -115,11 +131,13 @@
       }
     },
     "preview": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Preview the Data",
       "list": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -131,17 +149,20 @@
       }
     },
     "CenterSelection": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Choose a Registration Center",
       "list": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "line1": "On the Book Appointment page, you can find a registration center through the three options as follows:",
         "line1_note": "Note:  The recommended registration centers are automatically displayed based on your demographic details (Postal Code)",
         "subList": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -154,11 +175,13 @@
       }
     },
     "Booking": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Book an Appointment",
       "list": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -172,18 +195,21 @@
       }
     },
     "Acknowledgement": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "View Acknowledgement",
       "tablename":"Acknowledgement",
       "list": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "line1": "After successful completion of the Pre-registration application, you will receive an acknowledgment.",
         "line2": "You can print, download, email or SMS your acknowledgment.",
         "subList": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -191,6 +217,7 @@
           "line2": "To download your acknowledgement, click Download PDF.",
           "line3": "To add the additional recipient(s) to receive the acknowledgment of your application, follow these steps:",
           "subList": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -202,12 +229,14 @@
       }
     },
     "status": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Status Explanation",
       "tablename": "Status types",
       "headers": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -215,6 +244,7 @@
         "explanation": "Explanation"
       },
       "status": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -224,10 +254,12 @@
         "canceled": "Cancelled"
       },
       "explanation": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "pendingAppointment": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -237,6 +269,7 @@
           "line2_action": "Action: Book an appointment"
         },
         "booked": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -244,12 +277,14 @@
           "line1_action": "Action: Visit the registration center on your appointment date and time"
         },
         "cancelled": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
           "line1": "Appointment has been cancelled"
         },
         "expired": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -258,6 +293,7 @@
       }
     },
     "addApplicant": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -265,11 +301,13 @@
       "line": "In Your Applications page, click Create New Application to generate a new application for the new applicant."
     },
     "modify": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Modify Data",
       "list": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -279,11 +317,13 @@
       }
     },
     "rebook": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Re-book an Appointment",
       "list": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -293,11 +333,13 @@
       }
     },
     "cancelAppointment": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Cancel an Appointment",
       "list": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -307,11 +349,13 @@
       }
     },
     "discard": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Discard an Application",
       "list": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -321,11 +365,13 @@
       }
     },
     "Logout": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Logout",
       "list": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -336,10 +382,12 @@
     }
   },
   "faq": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "breadcrumb": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -349,6 +397,7 @@
     "answer": "Answer",
     "questions": [
       {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -356,6 +405,7 @@
         "answer": "You can use a friend or relative’s mobile number or an email ID to login to the pre-registration application."
       },
       {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -363,6 +413,7 @@
         "answer": "Create a new account using a new mobile number or email ID."
       },
       {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -370,6 +421,7 @@
         "answer": "Select the language that you can easily read and write because the entire form will be displayed in the specific language you have chosen."
       },
       {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -377,6 +429,7 @@
         "answer": "Fill the demographic data and save the application. You can upload the documents later."
       },
       {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -384,6 +437,7 @@
         "answer": "Yes, you can book an appointment for any number of people out of the total applicants."
       },
       {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -391,6 +445,7 @@
         "answer": "Try not to miss an appointment date. If you still miss it, reschedule the appointment by using the “Modify” option."
       },
       {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -398,6 +453,7 @@
         "answer": "Yes. If your appointment has expired, you can book a new appointment with a future date."
       },
       {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -405,6 +461,7 @@
         "answer": "No, but you can cancel the current appointment and book a new appointment at a new location of your choice."
       },
       {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -412,6 +469,7 @@
         "answer": "The acknowledgement page is only a reference document to remember the location and time of appointment, etc. At the registration center, your latest information will be automatically available. Thus, there is no official need to re-print or download"
       },
       {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -419,6 +477,7 @@
         "answer": "The acknowledgement page is only a reference document to remember the location and time of appointment, etc. You can re-print or download the acknowledgment to help you remember when your appointment is but there is no official need to do so."
       },
       {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -426,6 +485,7 @@
         "answer": "No, the registration process requires biometric and photo capture. Therefore, you must be present in person at the registration center."
       },
       {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -433,6 +493,7 @@
         "answer": "GoM to decide suitability of question and answers"
       },
       {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -440,6 +501,7 @@
         "answer": "GoM to decide suitability of question and answers."
       },
       {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -447,6 +509,7 @@
         "answer": "GoM to decide suitability of question and answers."
       },
       {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -454,6 +517,7 @@
         "answer": "GoM to decide suitability of question and answers."
       },
       {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -463,6 +527,7 @@
     ]
   },
   "header": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -474,6 +539,7 @@
     "link_login": "LOGIN"
   },
   "login": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -494,6 +560,7 @@
     "loading": "Sending..."
   },
   "stepper": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -503,6 +570,7 @@
     "link_confirm": "Confirmation"
   },
   "demographic": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -541,6 +609,7 @@
     "change_data_capture_langs": "Change data capture languages",
     "change_data_capture_langs_msg": "All data entered will be discarded and you will have to restart. Please Confirm.",
     "consent": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -555,6 +624,7 @@
       "alertMessageThird": "You will be redirected to ‘Preview Page’ due to not accepting Terms & Conditions"
     },
     "validation": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -564,6 +634,7 @@
     }
   },
   "documents": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -583,6 +654,7 @@
     "sameAsNone": "None"
   },
   "acknowledgement": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -600,6 +672,7 @@
     "label_reg_cntr_dtl": "Center Address"
   },
   "preview": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -630,10 +703,12 @@
     "action_continue": "CONTINUE"
   },
   "message": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "login": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -643,12 +718,14 @@
       "msg4": "Login Successful"
     },
     "demographicDetails": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "msg1": "Blacklisted word entered"
     },
     "uploadDocuments": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -670,6 +747,7 @@
       "none": "None"
     },
     "appointmentCentreSearch": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -677,6 +755,7 @@
       "msg2": "Location not enable"
     },
     "bookAppointment": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -684,6 +763,7 @@
       "msg2": "(should provide User name) Do you want to continue Booking?"
     },
     "cancelAppointment": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -692,6 +772,7 @@
     }
   },
   "dashboard": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -701,6 +782,7 @@
     "action_modify_appointment": "Book/Modify Appointment",
     "action_cre_application": "Create New Application ",
     "card": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -714,6 +796,7 @@
       "data_capture_langs": "Data Capture Languages"
     },
     "discard": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -721,6 +804,7 @@
       "title_success": "Success",
       "title_error": "Error",
       "cancelAppointment": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -729,6 +813,7 @@
         "msg_could_not_deleted": "Appointment for The selected application could not be cancelled"
       },
       "deletePreregistration": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -740,6 +825,7 @@
       "button_cancel": "Cancel"
     },
     "status": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -751,6 +837,7 @@
       "prefetched": "Prefetched"
     },
     "error": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -758,6 +845,7 @@
       "button_ok": "OK"
     },
     "dataCaptureLanguage": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -776,6 +864,7 @@
     }
   },
   "timeSelection": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -794,6 +883,7 @@
     "action_continue": "Continue",
     "note_text": "Please note that the application details cannot be modified once appointment is booked for it.",
     "booking": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -809,6 +899,7 @@
       "yesButtonText": "Yes",
       "noButtonText": "No",
       "applicationLockConfirm": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -820,6 +911,7 @@
     }
   },
   "appointmentCentreSearch": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -832,6 +924,7 @@
     "action_continue": "CONTINUE"
   },
   "appointmentConfirmed": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -841,6 +934,7 @@
     "action_print": "PRINT"
   },
   "dialog": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -862,6 +956,7 @@
     "navigation_alert": "Are you sure you would like to navigate away as data entered will not be saved. Please confirm"
   },
   "centerSelection": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -882,6 +977,7 @@
     "lunch_hours": "Lunch"
   },
   "autologout": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -889,11 +985,13 @@
     "post": "You have been logged out due to inactivity."
   },
   "helpText": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "applicationId": "Application ID for your pre-registration",
     "status": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -920,6 +1018,7 @@
     "prefetchedLockIcon": "Application details cannot be modified once it is Prefetched in Registration Center"
   },
   "error": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -946,6 +1045,7 @@
     "fileUploadDeactivateMsg": "Please upload the required document to continue."
   },
   "residentTypesMapping": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -964,12 +1064,14 @@
   ],
 
   "recaptcha": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "errorMessage": "Recaptcha Failed. Please Re-try"
   },
   "API_ERROR_CODES": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
@@ -1124,6 +1226,7 @@
     "PRG_BOOK_RCI_036": "Please complete your application before appointmnet booking"
   },
   "UI_VALIDATION_ERROR_CODES": {
+    "businessTitle": "Business Title",
     "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
