@@ -1,10 +1,13 @@
 {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
   "quick_guide": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "breadcrumb": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "home": "Home",
@@ -12,15 +15,18 @@
     },
     "headerText": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "line1": "To pre-register for one or more applicants, fill out the demographic details and upload the required documents. To book an appointment, choose your preferred registration center, date and time. On successful pre-registration, you will receive the notification on your provided email id or phone number.",
       "line2": "Click the following sections for more information about completing the Pre-registration form."
     },
     "select_language": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Select preference language",
       "list": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "line1": "On the login page, click the language dropdown to see the list of languages",
@@ -30,9 +36,11 @@
     },
     "login": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Login",
       "list": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "line1": "On the Login page, enter your valid email ID or mobile number in the Email ID or mobile number text box.",
@@ -45,9 +53,11 @@
     },
     "select_data_capture_language": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Select data capture language",
       "list": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "line1": "A user logging in for the first time and having no applications will be prompted with a data capture language pop-up. The same set of languages will be used for the next set of applications created in the same session.",
@@ -58,9 +68,11 @@
     },
     "t&c": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Accept Terms & Conditions",
       "list": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "line1": "On the Demographic Details page, you are advised to read the Terms and Conditions and select the check box to agree. This agreement is to provide consent for the storage and processing of your personal information.",
@@ -70,9 +82,11 @@
     },
     "demographic": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Fill Demographic Details",
       "list": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "line1": "Fill out all your demographic details, which include Name, Age/DOB, Gender, Residential Status, Address, Mobile Number, Email Id, etc.",
@@ -84,9 +98,11 @@
     },
     "documents": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Upload Documents",
       "list": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "line1": "On the Upload Documents page, select the document (e.g. Passport, Reference Identity Number, etc.) from the document drop-down list per applicable Document Category.",
@@ -100,9 +116,11 @@
     },
     "preview": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Preview the Data",
       "list": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "line1": "On the Preview page, if you want to change your demographic details (Name, Age, etc.), click Modify at the top-right adjacent to the Demographic Details section, to go to the Demographic Details page and change the details as required.",
@@ -114,14 +132,17 @@
     },
     "CenterSelection": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Choose a Registration Center",
       "list": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "line1": "On the Book Appointment page, you can find a registration center through the three options as follows:",
         "line1_note": "Note:  The recommended registration centers are automatically displayed based on your demographic details (Postal Code)",
         "subList": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
           "line1": "Click Nearby Centers to view the registration centers based on your geographical location.",
@@ -134,9 +155,11 @@
     },
     "Booking": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Book an Appointment",
       "list": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "line1": "The system displays the list of available calendar days with the number of available bookings. Select your preferred date.",
@@ -150,21 +173,25 @@
     },
     "Acknowledgement": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "View Acknowledgement",
       "tablename":"Acknowledgement",
       "list": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "line1": "After successful completion of the Pre-registration application, you will receive an acknowledgment.",
         "line2": "You can print, download, email or SMS your acknowledgment.",
         "subList": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
           "line1": "To print your acknowledgement, click Print.",
           "line2": "To download your acknowledgement, click Download PDF.",
           "line3": "To add the additional recipient(s) to receive the acknowledgment of your application, follow these steps:",
           "subList": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
             "line1": "Click Send Email/SMS.",
@@ -176,16 +203,19 @@
     },
     "status": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Status Explanation",
       "tablename": "Status types",
       "headers": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "status": "Status",
         "explanation": "Explanation"
       },
       "status": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "pendingAppointment": "Pending Appointment",
@@ -195,8 +225,10 @@
       },
       "explanation": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "pendingAppointment": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
           "line1": "Filled only demographic details",
@@ -206,16 +238,19 @@
         },
         "booked": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
           "line1": "Filled demographic details, uploaded documents, and booked appointment",
           "line1_action": "Action: Visit the registration center on your appointment date and time"
         },
         "cancelled": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
           "line1": "Appointment has been cancelled"
         },
         "expired": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
           "line1": "Appointment date has passed"
@@ -224,15 +259,18 @@
     },
     "addApplicant": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Add new Applicant",
       "line": "In Your Applications page, click Create New Application to generate a new application for the new applicant."
     },
     "modify": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Modify Data",
       "list": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "line1": "On Your Applications page, click Modify information to go to the Demographic Details page.",
@@ -242,9 +280,11 @@
     },
     "rebook": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Re-book an Appointment",
       "list": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "line1": "On Your Applications page, select the check box for the applicable applicant.",
@@ -254,9 +294,11 @@
     },
     "cancelAppointment": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Cancel an Appointment",
       "list": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "line1": "On Your Applications page, click on the delete icon against pre-registration application of an applicant, a pop-up window appears on the screen.",
@@ -266,9 +308,11 @@
     },
     "discard": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Discard an Application",
       "list": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "line1": "On Your Applications page, click on the delete icon against pre-registration application of an applicant, a pop-up window appears on the screen.",
@@ -278,9 +322,11 @@
     },
     "Logout": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "name": "Logout",
       "list": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "line1": "Click Logout at the top right corner.",
@@ -291,8 +337,10 @@
   },
   "faq": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "breadcrumb": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "home": "Home",
@@ -302,11 +350,13 @@
     "questions": [
       {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "question": "I do not have a mobile number or email ID. How can I create the pre-registration application?",
         "answer": "You can use a friend or relative’s mobile number or an email ID to login to the pre-registration application."
       },
       {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "question": "I have lost the mobile number/email ID that I used to create the pre-registration application. What should I do?",
@@ -314,11 +364,13 @@
       },
       {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "question": "What happens when I select the specific language on the login screen?",
         "answer": "Select the language that you can easily read and write because the entire form will be displayed in the specific language you have chosen."
       },
       {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "question": "What if I do not have the required document(s) available while filling the pre-registration application?",
@@ -326,11 +378,13 @@
       },
       {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "question": "Can I only book an appointment for only two people out of five applicants in the pre-registration application?",
         "answer": "Yes, you can book an appointment for any number of people out of the total applicants."
       },
       {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "question": "What happens if I miss an appointment date?",
@@ -338,11 +392,13 @@
       },
       {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "question": "I have booked an appointment on 10th of February. Can I change my appointment date to 18th of February?",
         "answer": "Yes. If your appointment has expired, you can book a new appointment with a future date."
       },
       {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "question": "I have booked an appointment at Casablanca registration center. Can I change my appointment registration center to Rabat?",
@@ -350,11 +406,13 @@
       },
       {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "question": "I have modified my information after I received an acknowledgment. Do I have to download or print the acknowledgement again?",
         "answer": "The acknowledgement page is only a reference document to remember the location and time of appointment, etc. At the registration center, your latest information will be automatically available. Thus, there is no official need to re-print or download"
       },
       {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "question": "I have rescheduled an appointment after I received an acknowledgment. Do I have to download or print the acknowledgement again?",
@@ -362,11 +420,13 @@
       },
       {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "question": "Can someone else submit an application on my behalf during the registration process?",
         "answer": "No, the registration process requires biometric and photo capture. Therefore, you must be present in person at the registration center."
       },
       {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "question": "I am staying away from my permanent residence for two years. What proof of residence do I have to provide?",
@@ -374,11 +434,13 @@
       },
       {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "question": "I do not have proof of residence for my present address. What should I do?",
         "answer": "GoM to decide suitability of question and answers."
       },
       {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "question": "I do not have any documents. What should I do?",
@@ -386,11 +448,13 @@
       },
       {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "question": "How many days before can I cancel or re-book an appointment?",
         "answer": "GoM to decide suitability of question and answers."
       },
       {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "question": "Do I have to carry original documents or certified document copies when I visit registration center?",
@@ -399,6 +463,7 @@
     ]
   },
   "header": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "link_about": "GETTING STARTED",
@@ -409,6 +474,7 @@
     "link_login": "LOGIN"
   },
   "login": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "text": "Quick & Easy steps To Register into Unique Identification Number 222222222222222",
@@ -429,6 +495,7 @@
   },
   "stepper": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "link_demographic": "Demographics Details",
     "link_upload_doc": "Upload Document",
@@ -436,6 +503,7 @@
     "link_confirm": "Confirmation"
   },
   "demographic": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "title": "Demographic Details",
@@ -474,6 +542,7 @@
     "change_data_capture_langs_msg": "All data entered will be discarded and you will have to restart. Please Confirm.",
     "consent": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "title": "Terms and Conditions",
       "subtitle": "Your Agreement",
@@ -487,6 +556,7 @@
     },
     "validation": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "DOB_validation": "Enter Valid date of birth or age",
       "requiredMessage": "Is required",
@@ -494,6 +564,7 @@
     }
   },
   "documents": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "title_document": "Upload Documents",
@@ -513,6 +584,7 @@
   },
   "acknowledgement": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "title": "Appointment Confirmed",
     "message": "The Pre-Registration id and Appointment details have been sent to the registered email id and phone number",
@@ -528,6 +600,7 @@
     "label_reg_cntr_dtl": "Center Address"
   },
   "preview": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "title_preview": "Preview",
@@ -558,8 +631,10 @@
   },
   "message": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "login": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "msg1": "Email ID is not valid",
@@ -569,10 +644,12 @@
     },
     "demographicDetails": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "msg1": "Blacklisted word entered"
     },
     "uploadDocuments": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "msg1": "Document exceeding permitted size",
@@ -594,17 +671,20 @@
     },
     "appointmentCentreSearch": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "msg1": "No result found",
       "msg2": "Location not enable"
     },
     "bookAppointment": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "msg1": "The Following User has not been selected any time slot",
       "msg2": "(should provide User name) Do you want to continue Booking?"
     },
     "cancelAppointment": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "msg1": "Appointment for the selected application will be cancelled",
@@ -613,6 +693,7 @@
   },
   "dashboard": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "title": "Your Applications",
     "name" : "Application",
@@ -620,6 +701,7 @@
     "action_modify_appointment": "Book/Modify Appointment",
     "action_cre_application": "Create New Application ",
     "card": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "text_app_id": "Application ID",
@@ -633,11 +715,13 @@
     },
     "discard": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "title_confirm": "Confirm",
       "title_success": "Success",
       "title_error": "Error",
       "cancelAppointment": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "msg_confirm": "Appointment for The selected application will be cancelled.",
@@ -645,6 +729,7 @@
         "msg_could_not_deleted": "Appointment for The selected application could not be cancelled"
       },
       "deletePreregistration": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "msg_confirm": "The selected application will be deleted. Please confirm.",
@@ -656,6 +741,7 @@
     },
     "status": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "pendingAppointment": "Pending Appointment",
       "booked": "Booked",
@@ -666,11 +752,13 @@
     },
     "error": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "error": "Internal server error. Please try again after  some time.",
       "button_ok": "OK"
     },
     "dataCaptureLanguage": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "title": "Select Language",
@@ -689,6 +777,7 @@
   },
   "timeSelection": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "title_book": "Book Appointment",
     "text_prev": "Previous",
@@ -706,6 +795,7 @@
     "note_text": "Please note that the application details cannot be modified once appointment is booked for it.",
     "booking": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "title_success": "Success",
       "msg_success": "Appointment has been booked successfully",
@@ -720,6 +810,7 @@
       "noButtonText": "No",
       "applicationLockConfirm": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
         "title": "Confirmation",
         "message": "Are you sure you want to submit the details? Once submitted the details cannot be modified",
@@ -729,6 +820,7 @@
     }
   },
   "appointmentCentreSearch": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "title": "Book Appointment",
@@ -741,6 +833,7 @@
   },
   "appointmentConfirmed": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "title": "Appointment Confirmed",
     "text_confirmation": "The Pre-Registarion id and Appointment details have been sent to registered email id and phone number",
@@ -748,6 +841,7 @@
     "action_print": "PRINT"
   },
   "dialog": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "title_applicant": "Send Appointment Confirmation",
@@ -769,6 +863,7 @@
   },
   "centerSelection": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "title": " Book Appointment ",
     "action_nearBy": "Nearby",
@@ -788,15 +883,18 @@
   },
   "autologout": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "preview": "You will be timed out in 60 secs due to inactivity. Please click anywhere to re-activate your session",
     "post": "You have been logged out due to inactivity."
   },
   "helpText": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "applicationId": "Application ID for your pre-registration",
     "status": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
       "pendingAppointment": "Appointment is yet to be booked",
@@ -823,6 +921,7 @@
   },
   "error": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "error": "A technical error occurred and the operation cannot be completed. Any data provided may not be saved.",
     "contactInformation": [
@@ -848,6 +947,7 @@
   },
   "residentTypesMapping": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "NFR": "National",
     "FR": "Foreigner"
@@ -865,10 +965,12 @@
 
   "recaptcha": {
     "subCity": "Sub-City",
+    "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "errorMessage": "Recaptcha Failed. Please Re-try"
   },
   "API_ERROR_CODES": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "PRG_MSD_APP_001": "Failed to fetch masterdata information",
@@ -1022,6 +1124,7 @@
     "PRG_BOOK_RCI_036": "Please complete your application before appointmnet booking"
   },
   "UI_VALIDATION_ERROR_CODES": {
+    "subCity": "Sub-City",
     "subCity": "Sub-City",
     "currentResidentialAddress": "Current Residential Address",
     "UI_1000": "Only alphabets are allowed",
