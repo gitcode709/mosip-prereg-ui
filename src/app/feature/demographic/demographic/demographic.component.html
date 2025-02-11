@@ -262,6 +262,18 @@
                           </mat-form-field>
                         </span>
                       </ng-container>
+                      <ng-container>
+                        <span>
+                          <mat-form-field appearance="legacy"
+                            [ngStyle]="dataCaptureLangsDir[i] == 'ltr'? {'text-align': 'left'} : {'text-align': 'right'}">
+                            <!-- Again Label is required at each TextBox level too -->
+                            <mat-label>
+                              BUSINESS
+                            </mat-label>
+                            <input matInput [formControlName]="businessfield" #input />
+                          </mat-form-field>
+                        </span>
+                      </ng-container>
                       <!-- Error handling for various types -->
                       <span *ngIf="field.controlType === 'textbox'" [dir]="userPrefLanguageDir">
                         <mat-error class="primary-errors" *ngIf="
