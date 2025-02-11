@@ -111,6 +111,20 @@
             "validators": [],
             "required": true
           },
+            "id": "gender-1",
+            "description": "Enter Gender 1",
+            "labelName": {
+              "eng": "Gender 1",
+              "ara": "جنس",
+              "fra": "Le genre"
+            },
+            "controlType": "dropdown",
+            "inputRequired": true,
+            "fieldType": "dynamic",
+            "type": "simpleType",
+            "validators": [],
+            "required": true
+          },		
           {
             "id": "residenceStatus",
             "description": "Residence status",
