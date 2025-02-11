@@ -146,6 +146,22 @@
             "required": false
           },
           {
+            "id": "gender 1",
+            "description": "Enter Gender 1",
+            "labelName": {
+              "eng": "Gender",
+              "ara": "جنس",
+              "fra": "Le genre"
+            },
+            "controlType": "dropdown",
+            "alignmentGroup": "row3",
+            "inputRequired": true,
+            "fieldType": "dynamic",
+            "type": "simpleType",
+            "validators": [],
+            "required": false
+          },		
+          {
             "id": "residenceStatus",
             "description": "Residence status",
             "labelName": {
